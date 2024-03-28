@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YaLaziz Website](https://github.com/Daniel-Sameh/YaLaziz)
 
-- 🌱 I’m currently learning **Software engineeing(waterfall & Agile), CSS, JavaScript, MsSQLserver, Java**
+- 🌱 I’m currently learning **Software engineering(waterfall & Agile), CSS, JavaScript, MsSQLserver, Java**
 
 - ⚡ Fun fact **I'm the fifth on my batch out of about 1000 students!**
 
