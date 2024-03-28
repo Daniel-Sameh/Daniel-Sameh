@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software engineeing(waterfall & Agile), CSS, JavaScript, MsSQLserver, Java**
 
-- ⚡ Fun fact **I'm the fifth on my batch out of about 1000 student!**
+- ⚡ Fun fact **I'm the fifth on my batch out of about 1000 students!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
