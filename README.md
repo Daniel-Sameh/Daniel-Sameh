@@ -1,4 +1,3 @@
-### Hi there 👋,Welcome to my profile!
 <h2 align="left">Hi 👋! I'm Daniel Sameh and I'm a CS student at Cairo University's Faculty of Computers and Artificial Intelligence.</h2>
 
 ###
@@ -22,7 +21,7 @@
 ###
 
 <div align="left">
-  <a href="danielsameh21@gmail.com" target="_blank">
+  <a href="mailto:danielsameh21@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/daniel-sameh-4b0017263/" target="_blank">
