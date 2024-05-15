@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Sameh!</h1>
 <h3 align="center">I'm an Egyptian CS student at Cairo University's Faculty of Computers and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on [YaLaziz Website](https://github.com/Daniel-Sameh/YaLaziz)
+- 🔭 I’m currently working on [YaLaziz Website](https://github.com/Daniel-Sameh/YaLaziz), [Hospital Management Desktop Application](https://github.com/Daniel-Sameh/Hospital-Management-System)
 
 - 🌱 I’m currently learning **Software engineering(waterfall & Agile), CSS, JavaScript, MsSQLserver, Java**
 
