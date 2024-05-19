@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Software engineering(waterfall & Agile), CSS, JavaScript, MsSQLserver, Java**
 
 - ⚡ Fun fact **I'm the fifth on my batch out of about 1000 students!**
-<br> ![](https://komarev.com/ghpvc/?username=Daniel-Sameh&color=green)
+<br><br>![](https://komarev.com/ghpvc/?username=Daniel-Sameh&color=green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
