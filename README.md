@@ -17,6 +17,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,py,github,,mssql,django,qtوvisualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,py,django,mssql,qtوgithub,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 </div>
