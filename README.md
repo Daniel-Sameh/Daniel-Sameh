@@ -18,6 +18,6 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,py,django,qt,github,visualstudio,vscode)](https://skillicons.dev)
-<img src="https://path.to/mssql-icon.png" alt="mssql" width="20" height="20"/>
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="mssql" width="20" height="20"/>
 <br/>
 </div>
