@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,py,django,qt,github,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,py,django,qt,jquery,git,github,visualstudio,vscode)](https://skillicons.dev)
 <img height="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
 <br/>
 </div>
