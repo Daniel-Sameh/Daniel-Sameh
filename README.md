@@ -13,10 +13,15 @@
 <a href="https://codeforces.com/profile/daniel_sameh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="daniel_sameh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,py,django,qt,jquery,git,github,visualstudio,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,bootstrap,c,cs,java,jquery,mysql,mongodb)](https://skillicons.dev)
 <img height="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
-<br/>
+</div>
+<h3 align="left">Frameworks and Tools:</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,django,qt,git,github,clion,idea,visualstudio,vscode" />
+  </a>
 </div>
