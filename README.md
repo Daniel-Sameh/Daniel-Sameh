@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Sameh!</h1>
 <h3 align="center">I'm an Egyptian CS student at Cairo University's Faculty of Computers and Artificial Intelligence.</h3>
 
-- ⚛️ I’m currently studying Front-end Development using React.
-- 👀 Exploring different Back-end frameworks: .Net and Java Spring Boot.
-- 📖 Reading the "Clean Code" Book, loving it so far!
+- ⚛️ I’m currently studying Back-end Development using Node.js, Express.js, and MongoDB.
+- 📖 Reading the "Designing Data Intensive Applications" Book, loving it so far!
 - ⚡ Fun fact **I'm the fifth on my batch out of about 1000 students!**
 <br><br>![](https://komarev.com/ghpvc/?username=Daniel-Sameh&color=green)
 
@@ -22,6 +21,6 @@
 <h3 align="left">Frameworks and Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,django,qt,git,github,clion,idea,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,django,qt,git,github,clion,postman,idea,visualstudio,vscode" />
   </a>
 </div>
