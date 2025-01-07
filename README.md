@@ -3,7 +3,7 @@
 
 - ⚛️ I’m currently studying Back-end Development using Node.js, Express.js, and MongoDB.
 - 📖 Reading the "Designing Data Intensive Applications" Book, loving it so far!
-- ⚡ Fun fact **I'm the fifth on my batch out of about 1000 students!**
+- ⚡ Fun fact **I'm the fourth on my batch out of about 1000 students with a GPA of 3.9/4**
 <br><br>![](https://komarev.com/ghpvc/?username=Daniel-Sameh&color=green)
 
 <h3 align="left">Connect with me:</h3>
