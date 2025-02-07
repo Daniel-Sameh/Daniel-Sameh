@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Sameh! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> I'm an Egyptian junior CS student at Cairo University's Faculty of Computers and Artificial Intelligence.</h3>
 
-- ⚛️ I’m currently grinding Leetcode (I will get this internship no matter what! lol).
+- 🎯 I’m currently grinding Leetcode (I'm getting this internship no matter what! lol🙃).
 - 📖 Reading the "Designing Data Intensive Applications" Book, loving it so far!
 - ⚡ Fun fact **I'm the fourth on my batch out of about 1000 students with a GPA of 3.9/4**
 <br><br>![](https://komarev.com/ghpvc/?username=Daniel-Sameh&color=green)
