@@ -16,20 +16,20 @@
 <h3 align="left">Languages:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,js,c,cs,html,css,bootstrap,jquery,mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,cs,html,css,bootstrap,jquery,mongodb,postgres,mysql)](https://skillicons.dev)
 <img height="45vh" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
 </div>
 <h3 align="left">Frameworks and Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,spring,django,postman,qt,git,github,clion,idea,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,postman,react,redux,qt,git,github,clion,idea,visualstudio,vscode" />
   </a>
 </div>
 <br>
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats:</summary>
   <br>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Sameh&theme=blueberry&count_private=true&hide_border=true&line_height=20&hide=contribs,issues&show_icons=true)</a>
+  <!--<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Sameh&theme=blueberry&count_private=true&hide_border=true&line_height=20&hide=contribs,issues&show_icons=true)</a> -->
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Sameh&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
