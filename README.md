@@ -32,7 +32,7 @@
 <h3 align="left">Databases:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,postgres,mysql)](https://skillicons.dev)
 <img height="45vh" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
 
 </div>
