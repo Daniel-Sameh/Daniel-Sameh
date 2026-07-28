@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" />
-  AI Engineer | Software Engineer | CS Student @ FCAI-CU
+  AI Engineer | Software Engineer | Backend Engineer
 </h3>
 
 <p align="center">
@@ -20,13 +20,13 @@
 
 ## 🚀 About Me
 
-- 🎓 Senior Computer Science student at **Cairo University (FCAI)**
-- 🧠 AI & Software Engineering enthusiast
-- 🏆 **GPA: 3.91 | Ranked Top 5 in class (4th place)**
-- 🏗️ Leading a **Siemens-sponsored graduation project**
+- 🎓 Fresh Computer Science graduate with honours from **Cairo University (FCAI)**
+- 🧠 AI & Backend Engineering enthusiast
+- 🏆 **GPA: 3.92 | Ranked 2nd in the Computer Science department**
+- 🏗️ Lead a **Siemens-sponsored graduation project** under supervision of two senior AI engineers
 
 ### 🔥 Current Work
-- 👨‍💻 **Audoclyphia** — AI-powered platform for automated software documentation  
+- 👨‍💻 **Audoclyphia** — AI-powered platform for automated software documentation
   - Multi-agent AI system  
   - Event-driven microservices architecture  
   - Knowledge graph for codebase intelligence  
@@ -59,8 +59,14 @@
 ## ⚙️ Frameworks & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,postman,react,redux,bootstrap,jquery,qt" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,postman,react,regex,redux,bootstrap,jquery,qt" />
   <br><br>
+  
+  [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
+  [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
+  [![LangMem](https://img.shields.io/badge/LangMem-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langmem)
+  
+  <br>
   <img src="https://skillicons.dev/icons?i=git,github,clion,idea,visualstudio,vscode" />
 </div>
 
@@ -70,7 +76,8 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis)](https://skillicons.dev)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com/)
 
 </div>
 
