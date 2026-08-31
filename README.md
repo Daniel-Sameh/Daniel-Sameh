@@ -24,6 +24,7 @@
 - 🧠 AI & Backend Engineering enthusiast
 - 🏆 **GPA: 3.92 | Ranked 2nd in the Computer Science department**
 - 🏗️ Lead a **Siemens-sponsored graduation project** under supervision of two senior AI engineers
+- 🔮 AI Engineer Intern @ Datalentech 
 
 ### 🔥 Current Work
 - 👨‍💻 **Audoclyphia** — AI-powered platform for automated software documentation
